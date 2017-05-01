@@ -1,0 +1,9 @@
+----story-----
+written by Azad
+
+
+This is my first git class
+I'm writing a short story about myself
+我喜欢coding
+2017-05-01
+
